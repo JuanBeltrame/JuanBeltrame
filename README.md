@@ -1,6 +1,6 @@
 <div align="center">
   <h3 align="center">Hi there 👋 I'm Juan Beltrame</h3>
- <hr style="margin:auto;width:50%;border:0;height:1px;background-color:#ccc;">
+ <hr >
 </div>
 
 <div align="center">
