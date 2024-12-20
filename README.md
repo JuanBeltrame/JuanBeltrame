@@ -1,7 +1,10 @@
 ### Hi there 👋 Im Juan Beltrame
-
+<p align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=JuanBeltrame)
 ![GitHub Followers](https://img.shields.io/github/followers/JuanBeltrame?style=social)
+</p>
+
+
 
 <!--
 **JuanBeltrame/JuanBeltrame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
