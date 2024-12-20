@@ -1,15 +1,12 @@
-<div align="center">
-  <h3 align="center">Hi there 👋 I'm Juan Beltrame</h3>
-</div>
+| Hi there 👋 I'm Juan Beltrame |
+|:-----------------------------:|
 
+---
 
+| ![Profile Views](https://komarev.com/ghpvc/?username=JuanBeltrame) ![GitHub Follow](https://img.shields.io/github/followers/JuanBeltrame?style=social&label=Follow) |
+|:------------------------------------------------------------------------------------------------------------------------------------:|
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanBeltrame" alt="Profile Views" />
- <img src="https://img.shields.io/github/followers/JuanBeltrame?style=social&label=Follow" alt="GitHub Follow" />
-</div>
-
-📫 How to reach me:
+## Juan
 
 
 
