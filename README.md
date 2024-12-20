@@ -1,5 +1,8 @@
 <div align="center">
   <h3 align="center">Hi there 👋 I'm Juan Beltrame</h3>
+</div>
+
+<div align="center">
  <hr>
 </div>
 
