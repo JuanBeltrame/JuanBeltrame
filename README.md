@@ -2,9 +2,7 @@
   <h3 align="center">Hi there 👋 I'm Juan Beltrame</h3>
 </div>
 
-<div>
- <hr>
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JuanBeltrame" alt="Profile Views" />
