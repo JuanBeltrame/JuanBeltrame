@@ -1,14 +1,13 @@
 <div align="center">
-  
-### Hi there 👋 I'm Juan Beltrame
-
+  <h3 align="center">Hi there 👋 I'm Juan Beltrame</h3>
+  <hr style="margin:auto;width:50%;">
 </div>
 
 <div align="center">
-
   <img src="https://komarev.com/ghpvc/?username=JuanBeltrame" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/JuanBeltrame?style=social" alt="GitHub Followers" />
 </div>
+
 
 
 
