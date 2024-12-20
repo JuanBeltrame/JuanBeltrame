@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Juan Beltrame | ![Profile Views](https://komarev.com/ghpvc/?username=JuanBeltrame) ![GitHub Follow](https://img.shields.io/github/followers/JuanBeltrame?style=social&label=Follow)
+## Hi there 👋 I'm Juan Beltrame 
+![Profile Views](https://komarev.com/ghpvc/?username=JuanBeltrame) 
+![GitHub Follow](https://img.shields.io/github/followers/JuanBeltrame?style=social&label=Follow)
 
 
 
