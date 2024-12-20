@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JuanBeltrame" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/JuanBeltrame?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/follow/JuanBeltrame?style=social" alt="GitHub Followers" />
 </div>
 
 
